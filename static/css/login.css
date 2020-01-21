@@ -1,0 +1,24 @@
+.loginForm{
+    text-align: center;
+    margin-top: 50px;
+}
+.loginForm h3{
+    color: blue;
+    align: center;
+}
+.loginForm input{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.loginForm p{
+    margin-bottom: 10px;
+}
+.loginForm button{
+    height: 30px;
+    width: 30%;
+    color: blue;
+}
+.status{
+    color: red;
+}
